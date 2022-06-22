@@ -1,2 +1,2 @@
 # Columbia-3082
-A collection of lab reports and example work from EE3082 Digital Systems Laboratory
+This repository will serve as a collection of lab reports, example work, and further exploration based on labs from from a digital systems laboratory course.
